@@ -75,7 +75,7 @@ export default {
               </div>
               <div class="card-content">
                 <p>{subredditState.data.public_description}</p>
-                <small>{subredditState.data.active_user_count} of {subredditState.data.subscribers} subscribers are here.</small>
+                               <small>{subredditState.data.active_user_count} of {subredditState.data.subscribers} subscribers are here.</small>
               </div>
             </div>
           )}
